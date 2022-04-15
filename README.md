@@ -8,6 +8,8 @@ Starting the app
 flutter run -d windows
 ```
 
+> Note : I added a Release folder, there is a file called color_gen.dll rename this to color_gen.exe to run the app without having to compile it with flutter. Github will not allow me to upload an .exe
+
 This project is a starting point for a Flutter application. I used flutter because it allows a centralized codebase as conviently deploy on other platforms with small changes that are platform specific
 
 ## Windows
